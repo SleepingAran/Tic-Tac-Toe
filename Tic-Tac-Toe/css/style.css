@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+	margin: auto;
+	max-width: 50%;
+	max-height: 100%
+	background-repeat: no-repeat;
+}
+
+#header{
+	background-color: white;
+	max-width:100%;
+}
+

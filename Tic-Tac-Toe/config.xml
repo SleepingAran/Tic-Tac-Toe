@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id= "edu.MobileGameDev.TicTacToe"
+		version="0.0.1" >
+
+<name>Tic Tac Toe Game</name>
+
+<description>This game is a simple Tic Tac Toe game</description>
+<preference name="android-minSdkVersion" value="10" />
+<icon src="icon.png" width="200" height="200" />
+<splash src="splash.png" />
+<preference name="SplashScreenDelay" value="5000" />
+</widget>
